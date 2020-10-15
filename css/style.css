@@ -1,9 +1,8 @@
-body{    
-	max-width: 100%;
-    margin-left: 250px;
-    margin-right: 250px;
+body {
     background-color: #e9e9f6;
-	}
+    margin-left: 15%;
+    margin-right: 15%;
+}
 img{
 	max-width: 100%;
 }
@@ -13,20 +12,19 @@ img{
 	    margin: auto;
 	}
 .box1{
-	padding: 17px;
-	padding-right: 260px;
-	padding-left: 260px;
+	padding: 2%;
+    padding-right: 21%;
+    padding-left: 21%;
 	}
 .box2{
-    padding-right: 800px;
-    padding-top: 40px;
-    line-height: 0.5;
+     padding-top: 4%;
+    line-height: 60%;
     font-size: 20px;
 }
 .box3{
     text-align: center;
     background-color: #386538;
-    padding: 50px;
+    padding: 5%;
     color: #e5e5e5;
 
 }
@@ -44,57 +42,7 @@ img{
 .yellow{
     color: #dddd08;
 }
-.banner{
-	text-align: center;
-   	width: 1000px;
-}
-body{    
-	max-width: 100%;
-    margin-left: 250px;
-    margin-right: 250px;
-    background-color: #e9e9f6;
-	}
-img{
-	max-width: 100%;
-}
-.logo{
-	    text-align: center;
-	    width: 150px;
-	    margin: auto;
-	}
-.box1{
-	padding: 17px;
-	padding-right: 260px;
-	padding-left: 260px;
-	}
-.box2{
-    padding-right: 800px;
-    padding-top: 40px;
-    line-height: 0.5;
-    font-size: 20px;
-}
-.box3{
+.banner {
     text-align: center;
-    background-color: #386538;
-    padding: 50px;
-    color: #e5e5e5;
-
-}
-.para{
-}
-.blue{
-    color: #5858dd;
-}
-.red{
-    color: #ff3f3f;
-}
-.green{
-    color: #43c443;
-}
-.yellow{
-    color: #dddd08;
-}
-.banner{
-	text-align: center;
-   	width: 1000px;
+    width: 100%;
 }
