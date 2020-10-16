@@ -11,8 +11,9 @@ img{
 	}
 .box1{
     padding: 15px;
-    max-width: 368px;
+    max-width: 450px;
     box-sizing: border-box;
+    text-align: center;
 	}
 .box2{
 }
