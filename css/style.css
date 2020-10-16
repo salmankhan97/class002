@@ -2,7 +2,7 @@ body {
     background-color: #e9e9f6;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: 720px;
 }
 img{
 	max-width: 100%;
@@ -11,18 +11,19 @@ img{
 	    text-align: center;
 	    width: 150px;
 	    margin: auto;
+	    padding-top: 15px;
 	}
 .box1{
 	margin: auto;
-    padding: 2%;
-    width: 50%;
+    padding: 15px;
+    width: 360px;
 	}
 .box2{
 }
 .box3{
     text-align: center;
     background-color: #386538;
-    padding: 5%;
+    padding: 36px;
     color: #e5e5e5;
 
 }
@@ -42,5 +43,5 @@ img{
 }
 .banner {
     text-align: center;
-    width: 100%;
+    width: 720px;
 }
