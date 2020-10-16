@@ -1,8 +1,5 @@
 body {
     background-color: #e9e9f6;
-    margin-left: auto;
-    margin-right: auto;
-    width: 720px;
 }
 img{
 	max-width: 100%;
@@ -10,24 +7,26 @@ img{
 .logo{
 	    text-align: center;
 	    width: 150px;
-	    margin: auto;
 	    padding-top: 15px;
 	}
 .box1{
-	margin: auto;
     padding: 15px;
-    width: 360px;
+    max-width: 368px;
+    text-align: justify;
+    box-sizing: border-box;
 	}
 .box2{
 }
 .box3{
-    text-align: center;
     background-color: #386538;
     padding: 36px;
     color: #e5e5e5;
+    text-align: center;
+    box-sizing: border-box;
 
 }
 .para{
+	text-align: justify;
 }
 .blue{
     color: #5858dd;
@@ -43,5 +42,8 @@ img{
 }
 .banner {
     text-align: center;
-    width: 720px;
+}
+div{
+	max-width: 720px;
+	margin: auto;
 }
